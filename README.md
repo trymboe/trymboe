@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there! 👋 
+I'm Trym, an AI enthusiast pursuing an MSc degree at UiO, specializing in the intersection of music and AI. Welcome to my GitHub profile!
 
-<!--
-**trymboe/trymboe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently pursuing an MSc degree in AI and robotics at UiO.
+- 🌱 I’m currently working on a master's thesis on music generation using AI and Multi Agent Systems (MAS).
+- 📷 I have experience with AI computer vision.
 
-Here are some ideas to get you started:
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Highlighted Projects
+
+
+- 🎵 **[Music Generation AI](https://github.com/trymboe/mas_music_generation)**  
+  _My master's thesis project on AI-driven music generation using Multi Agent Systems._
+
+- 🖼️ **[Image Captioner](https://github.com/trymboe/image_captioning)**  
+  _An AI model for generating captions for images._
+
+- 🔍 **[Image Classification](https://github.com/trymboe/image_classification)**  
+  _An AI model for classifying images._
+
+
