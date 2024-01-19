@@ -6,7 +6,7 @@ I'm Trym, an AI enthusiast pursuing an MSc degree at UiO, specializing in the in
 - 📷 I have experience with AI computer vision.
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/trym-boe)
 
 
 ### Highlighted Projects
